@@ -1,11 +1,11 @@
 // 1618564240
-// https://raw.githubusercontent.com/btccom/Blockchain-Known-Pools/master/pools.json
+// https://github.com/widecoin-project/pool-listing/blob/main/pool01.json
 
 {
   "coinbase_tags": {
-    "/LUXOR/": {
-      "name": "Luxor",
-      "link": "https://mining.luxor.tech"
+    "/miningp01/": {
+      "name": "miningp01",
+      "link": "http://miningp01.widecoin.org:8181"
     }
 
   }
