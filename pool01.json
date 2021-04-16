@@ -1,0 +1,12 @@
+// 1618564240
+// https://raw.githubusercontent.com/btccom/Blockchain-Known-Pools/master/pools.json
+
+{
+  "coinbase_tags": {
+    "/LUXOR/": {
+      "name": "Luxor",
+      "link": "https://mining.luxor.tech"
+    }
+
+  }
+}
