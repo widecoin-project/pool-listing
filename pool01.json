@@ -6,6 +6,10 @@
     "/miningp01/": {
       "name": "miningp01",
       "link": "http://miningp01.widecoin.org:8181"
+    },
+     "pool.rplant.xyz": {
+      "name": "rplant.xyz",
+      "link": "http://pool.rplant.xyz"
     }
 
   }
