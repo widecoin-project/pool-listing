@@ -3,13 +3,13 @@
 
 {
   "coinbase_tags": {
-    "/miningp01/": {
-      "name": "miningp01",
-      "link": "http://miningp01.widecoin.org:8181"
+    "/MiningCore/": {
+      "name": "kriptokyng.com",
+      "link": "https://kriptokyng.com"
     },
      "pool.rplant.xyz": {
       "name": "rplant.xyz",
-      "link": "http://pool.rplant.xyz"
+      "link": "https://pool.rplant.xyz"
     }
 
   }
