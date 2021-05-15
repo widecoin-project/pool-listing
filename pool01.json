@@ -3,6 +3,10 @@
 
 {
   "coinbase_tags": {
+   "/nodeStratum/": {
+      "name": "Miningp01",
+      "link": "http://miningp01.widecoin.org:8181"
+    },
     "/MiningCore/": {
       "name": "Kriptokyng",
       "link": "https://kriptokyng.com"
