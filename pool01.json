@@ -51,6 +51,18 @@
       "zpool.ca": {
       "name": "Zpool",
       "link": "zpool.ca"    
+    },
+      "altcoinpool.ru": {
+      "name": "Altcoinpool",
+      "link": "altcoinpool.ru"    
+    },
+      "koinium.com": {
+      "name": "Koinium",
+      "link": "koinium.com"    
+    },
+    "Miningcore": {
+      "name": "Miningcore",
+      "link": "Miningcore"    
     }
   },
     "payout_addresses": {
