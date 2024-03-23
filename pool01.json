@@ -76,7 +76,7 @@
     }
   },
   "unknown_miner_payout_addresses": {
-		"somePayoutAddress1": {
+		"somePayoutAddress": {
 		}
 	}
 }
